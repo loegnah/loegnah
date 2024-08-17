@@ -18,5 +18,4 @@
 
 **Sites**
 * [![Static Badge](https://img.shields.io/badge/notion-loegnah-FFFFFF?logo=notion)](https://loegnah.notion.site/Loegnah-Notion-f842cf31590f4fd2a27cd10a2e82c659?pvs=4)
-* [![Static Badge](https://img.shields.io/badge/medium-loegnah-FFFFFF?logo=medium)](https://medium.com/@loegnah)
 
